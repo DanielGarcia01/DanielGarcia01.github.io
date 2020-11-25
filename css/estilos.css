@@ -1,22 +1,4 @@
-
 body {
-            background-color: #AA3939;
-        }
-
-        .cuadroFondo {
-            background-color: #25705A;
-            padding: 1rem;
-            border: thick solid #003D19;
-            margin: 1rem;
-        }
-
-        .cuadroDialogo {
-            background-color: #25705A;
-        }
-
-        .texto {
-            font-family: cursive;
-            font-size: 5vh;
-            width: 50%;
-            color: #FFFFFF;
-        }
+      background-color: #db5d9c;
+    margin: 0;
+  }
